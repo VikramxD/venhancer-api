@@ -1,0 +1,12 @@
+2024-11-21 13:46:04.261 | ERROR    | __main__:<module>:276 - Server failed to start: LitServer.__init__() got an unexpected keyword argument 'generate_client_file'
+2024-11-21 13:46:45.780 | INFO     | __main__:<module>:272 - Starting VEnhancer server on port 8000
+2024-11-21 14:56:41.968 | ERROR    | __main__:<module>:276 - Server failed to start: LitServer.__init__() got an unexpected keyword argument 'generate_client_file'
+2024-11-21 14:57:39.643 | INFO     | __main__:<module>:273 - Starting VEnhancer server on port 8000
+2024-11-21 14:59:15.452 | INFO     | __main__:<module>:273 - Starting VEnhancer server on port 8000
+2024-11-21 15:06:56.201 | INFO     | __main__:<module>:273 - Starting VEnhancer server on port 8000
+2024-11-21 15:18:25.668 | ERROR    | __main__:<module>:312 - Server failed to start: LitServer.__init__() got an unexpected keyword argument 'generate_client_file'
+2024-11-21 15:18:45.242 | INFO     | __main__:<module>:303 - Starting VEnhancer server on port 8000
+2024-11-21 15:19:44.674 | INFO     | __main__:<module>:303 - Starting VEnhancer server on port 8000
+2024-11-21 15:25:15.847 | INFO     | __main__:<module>:303 - Starting VEnhancer server on port 8000
+2024-11-21 15:27:51.205 | INFO     | __main__:<module>:305 - Starting VEnhancer server on port 8000
+2024-11-21 15:32:04.982 | INFO     | __main__:<module>:307 - Starting VEnhancer server on port 8000
