@@ -1,0 +1,38 @@
+[project]
+name = "VEnhancer-api"
+version = "0.1.0"
+description = "Inference API for VEnhancer"
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = [
+    "torch>=2.0.0",
+    "torchvision>=0.15.0",
+    "opencv-python==4.10.0.84",
+    "easydict==1.13",
+    "einops==0.8.0",
+    "open-clip-torch==2.20.0",
+    "xformers==0.0.21",
+    "fairscale==0.4.13",
+    "torchsde==0.2.6",
+    "pytorch-lightning==2.0.1",
+    "diffusers==0.30.0",
+    "huggingface_hub==0.23.3",
+    "numpy==1.24",
+    "transformers>=4.30.0",
+    "accelerate>=0.20.0",
+    "safetensors>=0.3.0",
+    "sentencepiece",
+    "bitsandbytes",
+    "pydantic-settings",
+    "loguru"
+]
+
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[tool.setuptools]
+packages = ["VEnhancer", "nodes"]
+
+[tool.ruff]
+line-length = 120
